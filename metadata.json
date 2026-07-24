@@ -1,6 +1,6 @@
 {
-  "name": "PWA Project 1",
-  "description": "Modern Progressive Web App (PWA) built with React 19, Vite, TypeScript, Tailwind CSS, offline support and Cloudflare Pages compatibility.",
-  "requestFramePermissions": [],
+  "name": "NailStudio PWA",
+  "description": "Profesionálna offline PWA aplikácia pre manažment manikúry, zákazníčok, návštev, databázy gélov, fotogalérie a AI asistencie.",
+  "requestFramePermissions": ["camera"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
